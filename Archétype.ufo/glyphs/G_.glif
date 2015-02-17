@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G" format="1">
+  <advance width="100"/>
+  <unicode hex="0047"/>
+  <outline>
+    <contour>
+      <point x="69" y="48" type="line" smooth="yes"/>
+      <point x="69" y="31"/>
+      <point x="61" y="18"/>
+      <point x="45" y="18" type="curve" smooth="yes"/>
+      <point x="28" y="18"/>
+      <point x="20" y="31"/>
+      <point x="20" y="48" type="curve" smooth="yes"/>
+      <point x="20" y="152" type="line" smooth="yes"/>
+      <point x="20" y="168"/>
+      <point x="28" y="182"/>
+      <point x="45" y="182" type="curve" smooth="yes"/>
+      <point x="61" y="182"/>
+      <point x="69" y="168"/>
+      <point x="69" y="152" type="curve"/>
+      <point x="89" y="152" type="line"/>
+      <point x="89" y="179"/>
+      <point x="72" y="202"/>
+      <point x="45" y="202" type="curve" smooth="yes"/>
+      <point x="17" y="202"/>
+      <point x="0" y="179"/>
+      <point x="0" y="152" type="curve" smooth="yes"/>
+      <point x="0" y="48" type="line" smooth="yes"/>
+      <point x="0" y="20"/>
+      <point x="17" y="-2"/>
+      <point x="45" y="-2" type="curve" smooth="yes"/>
+      <point x="72" y="-2"/>
+      <point x="89" y="20"/>
+      <point x="89" y="48" type="curve" smooth="yes"/>
+      <point x="89.376" y="89.3247" type="line"/>
+      <point x="69.376" y="89.3247" type="line"/>
+    </contour>
+    <contour>
+      <point x="89.296" y="79.3247" type="line"/>
+      <point x="89.296" y="99.3247" type="line"/>
+      <point x="44.698" y="99.3247" type="line"/>
+      <point x="44.698" y="79.3247" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>G</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>100</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
