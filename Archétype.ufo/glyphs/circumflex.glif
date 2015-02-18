@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="A" format="1">
+<glyph name="circumflex" format="1">
   <advance width="100"/>
-  <unicode hex="0041"/>
+  <unicode hex="02C6"/>
   <outline>
     <contour>
-      <point x="86" y="40" type="line"/>
-      <point x="76" y="60" type="line"/>
-      <point x="35" y="60" type="line"/>
-      <point x="25" y="40" type="line"/>
+      <point x="36" y="180" type="line"/>
+      <point x="65" y="202" type="line"/>
+      <point x="35" y="202" type="line"/>
+      <point x="12" y="180" type="line"/>
+      <point x="36" y="180" type="line"/>
+      <point x="14" y="180" type="line"/>
     </contour>
     <contour>
-      <point x="25" y="0" type="line"/>
-      <point x="61" y="200" type="line"/>
-      <point x="41" y="200" type="line"/>
-      <point x="5" y="0" type="line"/>
-      <point x="5" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="96" y="0" type="line"/>
-      <point x="61" y="200" type="line"/>
-      <point x="41" y="200" type="line"/>
-      <point x="76" y="0" type="line"/>
+      <point x="63" y="180" type="line"/>
+      <point x="87" y="180" type="line"/>
+      <point x="63" y="180" type="line"/>
+      <point x="85" y="180" type="line"/>
+      <point x="63" y="202" type="line"/>
+      <point x="37" y="202" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +39,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>A</string>
+          <string>circumflex</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -12,6 +12,12 @@
 	<string>D_.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
+	<key>Eacute</key>
+	<string>Eacute_.glif</string>
+	<key>Ecircumflex</key>
+	<string>Ecircumflex_.glif</string>
+	<key>Egrave</key>
+	<string>Egrave_.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>G</key>
@@ -54,7 +60,17 @@
 	<string>Y_.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
+	<key>acute</key>
+	<string>acute.glif</string>
+	<key>circumflex</key>
+	<string>circumflex.glif</string>
+	<key>grave</key>
+	<string>grave.glif</string>
+	<key>quotesingle</key>
+	<string>quotesingle.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
+	<key>zero</key>
+	<string>zero.glif</string>
 </dict>
 </plist>
