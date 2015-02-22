@@ -34,6 +34,8 @@
 	<string>O_.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
+	<key>Q</key>
+	<string>Q_.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
 	<key>S</key>
@@ -42,5 +44,17 @@
 	<string>T_.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
+	<key>V</key>
+	<string>V_.glif</string>
+	<key>W</key>
+	<string>W_.glif</string>
+	<key>X</key>
+	<string>X_.glif</string>
+	<key>Y</key>
+	<string>Y_.glif</string>
+	<key>Z</key>
+	<string>Z_.glif</string>
+	<key>space</key>
+	<string>space.glif</string>
 </dict>
 </plist>

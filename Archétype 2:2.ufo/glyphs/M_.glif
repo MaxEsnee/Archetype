@@ -1,37 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="500"/>
+  <advance width="200"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="153" y="0" type="line"/>
-      <point x="129" y="0" type="line"/>
-      <point x="129" y="200" type="line"/>
-      <point x="153" y="200" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="19" y="0" type="line"/>
+      <point x="19" y="200" type="line"/>
+      <point x="44" y="200" type="line"/>
     </contour>
     <contour>
-      <point x="327" y="0" type="line"/>
-      <point x="303" y="0" type="line"/>
-      <point x="303" y="200" type="line"/>
-      <point x="327" y="200" type="line"/>
+      <point x="179" y="0" type="line"/>
+      <point x="154.0" y="0.0" type="line"/>
+      <point x="154.0" y="200.0" type="line"/>
+      <point x="179" y="200" type="line"/>
     </contour>
     <contour>
-      <point x="241" y="29" type="line"/>
-      <point x="215" y="29" type="line"/>
-      <point x="130" y="189" type="line"/>
-      <point x="153" y="200" type="line"/>
+      <point x="112" y="29" type="line"/>
+      <point x="86" y="29" type="line"/>
+      <point x="21" y="189" type="line"/>
+      <point x="44" y="200" type="line"/>
     </contour>
     <contour>
-      <point x="241" y="29" type="line"/>
-      <point x="215" y="29" type="line"/>
-      <point x="303" y="200" type="line"/>
-      <point x="325" y="189" type="line"/>
+      <point x="112" y="29" type="line"/>
+      <point x="86" y="29" type="line"/>
+      <point x="154.0" y="200.0" type="line"/>
+      <point x="176" y="189" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>M</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>200</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
