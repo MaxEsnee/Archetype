@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="V" format="1">
+<glyph name="acute" format="1">
   <advance width="200"/>
-  <unicode hex="0056"/>
+  <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="88" y="0" type="line"/>
-      <point x="109" y="0" type="line"/>
-      <point x="193.418" y="200.1052" type="line"/>
-      <point x="166" y="200" type="line"/>
-      <point x="88" y="13" type="line"/>
-    </contour>
-    <contour>
-      <point x="89" y="0" type="line"/>
-      <point x="110" y="0" type="line"/>
-      <point x="110" y="11" type="line"/>
-      <point x="31.356" y="200.1052" type="line"/>
-      <point x="5.0" y="200.1052" type="line"/>
+      <point x="99" y="175" type="line"/>
+      <point x="125" y="202" type="line"/>
+      <point x="90" y="202" type="line"/>
+      <point x="71" y="175" type="line"/>
+      <point x="99" y="175" type="line"/>
+      <point x="71" y="175" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +31,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>V</string>
+          <string>acute</string>
           <key>unicodes</key>
           <array>
           </array>

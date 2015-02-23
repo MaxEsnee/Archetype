@@ -31,6 +31,7 @@
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 		<string>background</string>
+		<string>test</string>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -246,6 +247,13 @@
 			<key>type</key>
 			<string>glyphList</string>
 		</dict>
+	</array>
+	<key>com.typemytype.robofont.test.layerStrokeColor</key>
+	<array>
+		<real>0.5</real>
+		<real>1.0</real>
+		<real>0.0</real>
+		<real>0.7</real>
 	</array>
 	<key>public.glyphOrder</key>
 	<array>
