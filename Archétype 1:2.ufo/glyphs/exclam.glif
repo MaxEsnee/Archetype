@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="V" format="1">
+<glyph name="exclam" format="1">
   <advance width="100"/>
-  <unicode hex="0056"/>
+  <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="39" y="0" type="line"/>
-      <point x="58" y="0" type="line"/>
-      <point x="98" y="200" type="line"/>
-      <point x="77" y="200" type="line"/>
-      <point x="55" y="80" type="line" smooth="yes"/>
-      <point x="53" y="68"/>
-      <point x="53" y="56"/>
-      <point x="53" y="50" type="curve"/>
-      <point x="47" y="50" type="line"/>
-      <point x="47" y="56"/>
-      <point x="47" y="68"/>
-      <point x="45" y="80" type="curve" smooth="yes"/>
-      <point x="23" y="200" type="line"/>
-      <point x="2" y="200" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="34" y="25" type="line"/>
+      <point x="57" y="25" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="49" type="line"/>
+      <point x="35" y="49" type="line"/>
+      <point x="33" y="200" type="line"/>
+      <point x="58" y="200" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +35,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>V</string>
+          <string>exclam</string>
           <key>unicodes</key>
           <array>
           </array>

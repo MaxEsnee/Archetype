@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="O" format="1">
+<glyph name="Ograve" format="1">
   <advance width="100"/>
-  <unicode hex="004F"/>
+  <unicode hex="00D2"/>
   <outline>
     <contour>
       <point x="51" y="-3" type="curve" smooth="yes"/>
       <point x="21.0" y="-3.0"/>
-      <point x="11" y="13"/>
-      <point x="11" y="100" type="curve"/>
-      <point x="11" y="187"/>
-      <point x="21.0" y="203.0"/>
-      <point x="51" y="203" type="curve" smooth="yes"/>
-      <point x="79.0" y="203.0"/>
-      <point x="89.0" y="186.843137255"/>
-      <point x="89" y="100" type="curve"/>
-      <point x="89.0" y="13.1568627451"/>
+      <point x="11.0" y="9.49462365591"/>
+      <point x="11" y="80" type="curve"/>
+      <point x="11" y="151"/>
+      <point x="21" y="163"/>
+      <point x="51" y="163" type="curve" smooth="yes"/>
+      <point x="79" y="163"/>
+      <point x="89" y="151"/>
+      <point x="89" y="80" type="curve"/>
+      <point x="89.0" y="9.49462365591"/>
       <point x="79.0" y="-3.0"/>
     </contour>
     <contour>
-      <point x="51" y="183" type="curve" smooth="yes"/>
-      <point x="36.0" y="183.0"/>
-      <point x="31.0" y="172.87804878"/>
-      <point x="31" y="100" type="curve"/>
-      <point x="31.0" y="27.1219512195"/>
+      <point x="51" y="143" type="curve" smooth="yes"/>
+      <point x="36" y="143"/>
+      <point x="31" y="135"/>
+      <point x="31" y="80" type="curve"/>
+      <point x="31.0" y="24.7671232877"/>
       <point x="36.0" y="17.0"/>
       <point x="51" y="17" type="curve" smooth="yes"/>
       <point x="65.0" y="17.0"/>
-      <point x="69.0" y="28.1341463415"/>
-      <point x="69" y="100" type="curve"/>
-      <point x="69.0" y="171.865853659"/>
-      <point x="65.0" y="183.0"/>
+      <point x="69.0" y="25.6301369863"/>
+      <point x="69" y="80" type="curve"/>
+      <point x="69" y="134"/>
+      <point x="65" y="143"/>
     </contour>
+    <component base="grave"/>
   </outline>
   <lib>
     <dict>
@@ -51,7 +52,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>O</string>
+          <string>Ograve</string>
           <key>unicodes</key>
           <array>
           </array>

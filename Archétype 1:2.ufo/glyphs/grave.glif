@@ -5,11 +5,9 @@
   <outline>
     <contour>
       <point x="43" y="180" type="line"/>
-      <point x="67" y="180" type="line"/>
-      <point x="43" y="180" type="line"/>
-      <point x="65" y="180" type="line"/>
-      <point x="47" y="202" type="line"/>
-      <point x="18" y="202" type="line"/>
+      <point x="61" y="180" type="line"/>
+      <point x="50" y="203" type="line"/>
+      <point x="18" y="203" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="V" format="1">
+<glyph name="Icircumflex" format="1">
   <advance width="100"/>
-  <unicode hex="0056"/>
+  <unicode hex="00CE"/>
   <outline>
     <contour>
-      <point x="39" y="0" type="line"/>
-      <point x="58" y="0" type="line"/>
-      <point x="98" y="200" type="line"/>
-      <point x="77" y="200" type="line"/>
-      <point x="55" y="80" type="line" smooth="yes"/>
-      <point x="53" y="68"/>
-      <point x="53" y="56"/>
-      <point x="53" y="50" type="curve"/>
-      <point x="47" y="50" type="line"/>
-      <point x="47" y="56"/>
-      <point x="47" y="68"/>
-      <point x="45" y="80" type="curve" smooth="yes"/>
-      <point x="23" y="200" type="line"/>
-      <point x="2" y="200" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="85" y="19" type="line"/>
+      <point x="60" y="19" type="line"/>
+      <point x="60" y="150" type="line"/>
+      <point x="85" y="150" type="line"/>
+      <point x="85" y="170" type="line"/>
+      <point x="15" y="170" type="line"/>
+      <point x="15" y="150" type="line"/>
+      <point x="40" y="150" type="line"/>
+      <point x="40" y="19" type="line"/>
+      <point x="15" y="19" type="line"/>
+      <point x="15" y="0" type="line"/>
     </contour>
+    <component base="circumflex"/>
   </outline>
   <lib>
     <dict>
@@ -39,7 +38,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>V</string>
+          <string>Icircumflex</string>
           <key>unicodes</key>
           <array>
           </array>
