@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five" format="1">
+  <advance width="200"/>
+  <unicode hex="0035"/>
+  <outline>
+    <contour>
+      <point x="109" y="135" type="curve"/>
+      <point x="89" y="135"/>
+      <point x="68" y="133"/>
+      <point x="57" y="119" type="curve"/>
+      <point x="58" y="176" type="line"/>
+      <point x="170" y="176" type="line"/>
+      <point x="170" y="200" type="line"/>
+      <point x="34" y="200" type="line"/>
+      <point x="33" y="94" type="line"/>
+      <point x="54" y="94" type="line"/>
+      <point x="69" y="106"/>
+      <point x="82" y="111"/>
+      <point x="104" y="111" type="curve"/>
+      <point x="142.076923077" y="111.0"/>
+      <point x="159.0" y="100.0"/>
+      <point x="159" y="71" type="curve"/>
+      <point x="159.0" y="36.0"/>
+      <point x="142.094339623" y="21.0"/>
+      <point x="103" y="21" type="curve" smooth="yes"/>
+      <point x="67.0" y="21.0"/>
+      <point x="54.0239376024" y="31.8444055841"/>
+      <point x="50" y="58" type="curve"/>
+      <point x="26" y="55" type="line"/>
+      <point x="32.0192162762" y="12.8654860664"/>
+      <point x="54.0" y="-3.0"/>
+      <point x="103" y="-3" type="curve" smooth="yes"/>
+      <point x="159.103896104" y="-3.0"/>
+      <point x="183.0" y="19.0"/>
+      <point x="183" y="71" type="curve"/>
+      <point x="180.999837191" y="117.003744612"/>
+      <point x="160.070422535" y="135.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>five</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>200</integer>
+        </dict>
+        <key>test</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>five</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>200</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="200"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="145" y="116" type="curve" smooth="yes"/>
+      <point x="163.213440415" y="137.249013818"/>
+      <point x="182.0" y="166.0"/>
+      <point x="182" y="183" type="curve"/>
+      <point x="182" y="200" type="line"/>
+      <point x="18" y="200" type="line"/>
+      <point x="18" y="175" type="line"/>
+      <point x="154" y="175" type="line"/>
+      <point x="151.994375194" y="168.983125581"/>
+      <point x="137.229531896" y="145.275438275"/>
+      <point x="117" y="121" type="curve" smooth="yes"/>
+      <point x="92" y="91"/>
+      <point x="57" y="36"/>
+      <point x="57" y="0" type="curve"/>
+      <point x="84" y="0" type="line"/>
+      <point x="84" y="34"/>
+      <point x="121" y="88"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>seven</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>200</integer>
+        </dict>
+        <key>test</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>seven</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>200</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

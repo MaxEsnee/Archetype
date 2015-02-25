@@ -4,30 +4,49 @@
   <unicode hex="00C0"/>
   <outline>
     <contour>
-      <point x="158" y="37" type="line"/>
-      <point x="158" y="61" type="line"/>
-      <point x="39" y="61" type="line"/>
-      <point x="39" y="37" type="line"/>
+      <point x="137" y="61" type="line"/>
+      <point x="99" y="134" type="line"/>
+      <point x="61" y="61" type="line"/>
     </contour>
     <contour>
-      <point x="29" y="0" type="line"/>
-      <point x="111" y="159" type="line"/>
-      <point x="85" y="159" type="line"/>
-      <point x="2" y="0" type="line"/>
+      <point x="169" y="0" type="line"/>
+      <point x="150" y="37" type="line"/>
+      <point x="49" y="37" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="3" y="0" type="line"/>
+      <point x="86" y="159" type="line"/>
+      <point x="112" y="159" type="line"/>
+      <point x="197" y="0" type="line"/>
     </contour>
-    <contour>
-      <point x="196" y="0" type="line"/>
-      <point x="111" y="159" type="line"/>
-      <point x="85" y="159" type="line"/>
-      <point x="168" y="0" type="line"/>
-    </contour>
-    <component base="grave" xOffset="-7"/>
+    <component base="grave"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Agrave</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>200</integer>
+        </dict>
+        <key>test</key>
         <dict>
           <key>anchors</key>
           <array>

@@ -4,16 +4,16 @@
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="25" y="0" type="line"/>
-      <point x="25" y="200" type="line"/>
-      <point x="50" y="200" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="200" type="line"/>
+      <point x="55" y="200" type="line"/>
     </contour>
     <contour>
-      <point x="194" y="0" type="line"/>
-      <point x="35" y="0" type="line"/>
-      <point x="35" y="24" type="line"/>
-      <point x="194" y="24" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="24" type="line"/>
+      <point x="184" y="24" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,6 +21,28 @@
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>L</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>200</integer>
+        </dict>
+        <key>test</key>
         <dict>
           <key>anchors</key>
           <array>

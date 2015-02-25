@@ -4,28 +4,18 @@
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="45" y="1" type="line"/>
-      <point x="20.0" y="1.0" type="line"/>
-      <point x="20.0" y="201.0" type="line"/>
-      <point x="45" y="201" type="line"/>
-    </contour>
-    <contour>
-      <point x="180" y="177" type="line"/>
-      <point x="30.0" y="177.0" type="line"/>
-      <point x="30.0" y="201.0" type="line"/>
-      <point x="180" y="201" type="line"/>
-    </contour>
-    <contour>
-      <point x="140" y="89" type="line"/>
-      <point x="30.0" y="89.0" type="line"/>
-      <point x="30.0" y="113.0" type="line"/>
-      <point x="140" y="113" type="line"/>
-    </contour>
-    <contour>
-      <point x="180" y="1" type="line"/>
-      <point x="30.0" y="1.0" type="line"/>
-      <point x="30.0" y="25.0" type="line"/>
-      <point x="180" y="25" type="line"/>
+      <point x="25" y="1" type="line"/>
+      <point x="175" y="1" type="line"/>
+      <point x="175" y="25" type="line"/>
+      <point x="50" y="25" type="line"/>
+      <point x="50" y="89" type="line"/>
+      <point x="135" y="89" type="line"/>
+      <point x="135" y="113" type="line"/>
+      <point x="50" y="113" type="line"/>
+      <point x="50" y="177" type="line"/>
+      <point x="175" y="177" type="line"/>
+      <point x="175" y="201" type="line"/>
+      <point x="25" y="201" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,6 +23,28 @@
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>200</integer>
+        </dict>
+        <key>test</key>
         <dict>
           <key>anchors</key>
           <array>

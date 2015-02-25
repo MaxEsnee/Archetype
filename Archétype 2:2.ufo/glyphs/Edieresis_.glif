@@ -4,28 +4,18 @@
   <unicode hex="00CB"/>
   <outline>
     <contour>
-      <point x="45" y="1" type="line"/>
       <point x="20" y="1" type="line"/>
-      <point x="20" y="163" type="line"/>
-      <point x="45" y="163" type="line"/>
-    </contour>
-    <contour>
-      <point x="180" y="139" type="line"/>
-      <point x="30" y="139" type="line"/>
-      <point x="30" y="163" type="line"/>
-      <point x="180" y="163" type="line"/>
-    </contour>
-    <contour>
-      <point x="140" y="70" type="line"/>
-      <point x="30" y="70" type="line"/>
-      <point x="30" y="94" type="line"/>
-      <point x="140" y="94" type="line"/>
-    </contour>
-    <contour>
       <point x="180" y="1" type="line"/>
-      <point x="30" y="1" type="line"/>
-      <point x="30" y="25" type="line"/>
       <point x="180" y="25" type="line"/>
+      <point x="45" y="25" type="line"/>
+      <point x="45" y="70" type="line"/>
+      <point x="140" y="70" type="line"/>
+      <point x="140" y="94" type="line"/>
+      <point x="45" y="94" type="line"/>
+      <point x="45" y="139" type="line"/>
+      <point x="180" y="139" type="line"/>
+      <point x="180" y="163" type="line"/>
+      <point x="20" y="163" type="line"/>
     </contour>
     <component base="dieresis"/>
   </outline>
@@ -34,6 +24,28 @@
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Edieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>200</integer>
+        </dict>
+        <key>test</key>
         <dict>
           <key>anchors</key>
           <array>

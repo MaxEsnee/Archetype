@@ -6,18 +6,11 @@
     <contour>
       <point x="115" y="172" type="line"/>
       <point x="141" y="172" type="line"/>
-      <point x="115" y="172" type="line"/>
-      <point x="141" y="172" type="line"/>
       <point x="117" y="203" type="line"/>
-      <point x="92" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="89" y="172" type="line"/>
-      <point x="112" y="203" type="line"/>
       <point x="87" y="203" type="line"/>
       <point x="63" y="172" type="line"/>
       <point x="89" y="172" type="line"/>
-      <point x="63" y="172" type="line"/>
+      <point x="102" y="190" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,6 +18,28 @@
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>200</integer>
+        </dict>
+        <key>test</key>
         <dict>
           <key>anchors</key>
           <array>

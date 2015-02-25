@@ -18,8 +18,6 @@
       <point x="15" y="170" type="line"/>
     </contour>
     <component base="acute"/>
-    <component base="acute"/>
-    <component base="acute"/>
   </outline>
   <lib>
     <dict>

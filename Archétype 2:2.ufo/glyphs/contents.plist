@@ -90,6 +90,10 @@
 	<string>acute.glif</string>
 	<key>backslash</key>
 	<string>backslash.glif</string>
+	<key>bracketleft</key>
+	<string>bracketleft.glif</string>
+	<key>bracketright</key>
+	<string>bracketright.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
 	<key>colon</key>
@@ -98,12 +102,26 @@
 	<string>comma.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
+	<key>eight</key>
+	<string>eight.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
+	<key>five</key>
+	<string>five.glif</string>
+	<key>four</key>
+	<string>four.glif</string>
 	<key>grave</key>
 	<string>grave.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
+	<key>nine</key>
+	<string>nine.glif</string>
+	<key>one</key>
+	<string>one.glif</string>
+	<key>parenleft</key>
+	<string>parenleft.glif</string>
+	<key>parenright</key>
+	<string>parenright.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
 	<key>question</key>
@@ -112,9 +130,19 @@
 	<string>quotesingle.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
+	<key>seven</key>
+	<string>seven.glif</string>
+	<key>six</key>
+	<string>six.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
+	<key>three</key>
+	<string>three.glif</string>
+	<key>two</key>
+	<string>two.glif</string>
+	<key>zero</key>
+	<string>zero.glif</string>
 </dict>
 </plist>
