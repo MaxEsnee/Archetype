@@ -82,6 +82,8 @@
 	<string>acute.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
+	<key>comma</key>
+	<string>comma.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
 	<key>exclam</key>
@@ -92,10 +94,18 @@
 	<string>four.glif</string>
 	<key>grave</key>
 	<string>grave.glif</string>
+	<key>hyphen</key>
+	<string>hyphen.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>parenleft</key>
+	<string>parenleft.glif</string>
+	<key>parenright</key>
+	<string>parenright.glif</string>
+	<key>period</key>
+	<string>period.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
 	<key>quotesingle</key>

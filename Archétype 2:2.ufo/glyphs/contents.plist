@@ -12,6 +12,8 @@
 	<string>Adieresis_.glif</string>
 	<key>Agrave</key>
 	<string>Agrave_.glif</string>
+	<key>Apetit</key>
+	<string>Apetit_.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
 	<key>C</key>
@@ -126,6 +128,8 @@
 	<string>period.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
+	<key>quotedbl</key>
+	<string>quotedbl.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
 	<key>semicolon</key>
